@@ -1,0 +1,7 @@
+[package]
+name = "qr"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+qr_code = "2.0.0"
